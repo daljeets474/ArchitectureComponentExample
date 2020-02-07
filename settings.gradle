@@ -1,0 +1,2 @@
+include ':app', ':architecurecomppractice', ':daggerimplemetation'
+rootProject.name='ArchitectureComponentExample'
